@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
