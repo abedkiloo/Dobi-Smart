@@ -3,4 +3,22 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <!--register and signin strings-->
+    <string name="sign_in">Sign In</string>
+    <string name="dobi_smart_sign_in">Dobi Smart Sign In</string>
+    <string name="dobi_smart_sign_up">Dobi Smart Sign Up</string>
+    <string name="fb_sign_in">Sign in with Facebook</string>
+    <string name="fb_sign_up">Sign Up with Facebook</string>
+    <string name="or">or</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="user_number">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="agree_terms">Agree to the <u><b>terms and conditions</b></u></string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="not_a_member">Not a member ?</string>
+    <string name="have_an_account">Have an Account ?</string>
+    <string name="sign_up_here"><u>Sign Up Here</u></string>
+    <string name="sign_in_here"><u>Sign In Here</u></string>
 </resources>

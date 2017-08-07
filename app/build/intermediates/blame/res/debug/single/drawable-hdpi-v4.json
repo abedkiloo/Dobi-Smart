@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color_accent_custom_drawable.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-hdpi/color_accent_custom_drawable.xml"
+    },
+    {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },

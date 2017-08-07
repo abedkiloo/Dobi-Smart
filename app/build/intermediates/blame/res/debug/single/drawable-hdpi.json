@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-hdpi/password_drawable.png",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-hdpi/password_drawable.png"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-hdpi/fb_drawable.png",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-hdpi/fb_drawable.png"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-hdpi/email_drawable.png",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-hdpi/email_drawable.png"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-hdpi/person_drawable.png",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-hdpi/person_drawable.png"
+    }
+]

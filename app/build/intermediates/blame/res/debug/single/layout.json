@@ -76,6 +76,10 @@
         "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_action.xml"
     },
     {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_activity_chooser_view.xml"
     },
@@ -94,6 +98,10 @@
     {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/activity_sign_in.xml"
     },
     {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",

@@ -21,12 +21,19 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.abednego.dobismart.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.example.abednego.dobismart.SignIn"
+            android:label="@string/dobi_smart_sign_in" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.abednego.dobismart.SignUp"
+            android:label="@string/dobi_smart_sign_up" >
         </activity>
     </application>
 

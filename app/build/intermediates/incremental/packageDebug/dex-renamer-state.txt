@@ -1,0 +1,7 @@
+#Mon Aug 07 14:35:29 EAT 2017
+base.0=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c279849789a10e037f394d4ef93c16f9080844/classes.dex
+base.1=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c279849789a10e037f394d4ef93c16f9080844
+file.0=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e/classes.dex

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/7a8b54b9c5623cbe56201bb57486786073cf613f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4da943816cb978710ed4d87d9328a9eb6cbb18ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/f152a045ce7dbd5d5d091f57e9537bbb85ebc52c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1a9be4ebc0e2254eed2883d73aa1e9c2c42f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="045ec2f623db7d287caeeacb882fb3283108bcc6">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c279849789a10e037f394d4ef93c16f9080844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/451710643b3d535118c41349fb0ca50e298dfb5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb2cbadf87c33922ad3f40069fd8e96ff1b08155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/58d737c8fcce8b956b3ce47995fa26355f9db1ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7aec658b43a6a824851c650f81d140e91bff015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/cc2db7043fc7caeecb12293371d8183ce39dd989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbc1646319cafa323e7203df3bebc6553f366ca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fd583107c8bbca7ac370d0f159244ee6f5f20b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abednego/.android/build-cache/8b00264e4a992367c778d6ceaa430d3f7d2c2b96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b4fc4fcaf400922ae40d3746a9b7be65a9de74e/classes.dex" />
+    </item>
+
+</items>

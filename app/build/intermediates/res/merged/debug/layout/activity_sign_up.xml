@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.abednego.dobismart.SignIn">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_view_label_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/sp_24"
+        android:text="@string/app_name"
+        android:textSize="@dimen/sp_48"
+        android:textStyle="bold|italic" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_view_label_app"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/fb_text_view_sign_in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/color_primary_dark_custom_drawable"
+            android:drawableLeft="@drawable/fb_drawable"
+            android:drawableStart="@drawable/fb_drawable"
+            android:padding="@dimen/sp_12"
+            android:text="@string/fb_sign_up"
+            android:textAlignment="center"
+            android:textColor="@color/color_white" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/text_view_or"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fb_text_view_sign_in"
+            android:layout_centerHorizontal="true"
+            android:text="@string/or"
+            android:textSize="@dimen/sp_24" />
+
+
+        <LinearLayout
+            android:id="@+id/user_details_linear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_view_or"
+            android:layout_centerHorizontal="true"
+            android:orientation="vertical">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/sp_48"
+                android:paddingRight="@dimen/sp_48">
+
+                <android.support.design.widget.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/email_drawable"
+                    android:drawableStart="@drawable/email_drawable"
+                    android:hint="@string/email" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/sp_48"
+                android:paddingRight="@dimen/sp_48">
+
+                <android.support.design.widget.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/person_drawable"
+                    android:drawableStart="@drawable/person_drawable"
+                    android:hint="@string/user_number" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/sp_48"
+                android:paddingRight="@dimen/sp_48">
+
+                <android.support.design.widget.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/password_drawable"
+                    android:drawableStart="@drawable/password_drawable"
+                    android:hint="@string/password" />
+            </android.support.design.widget.TextInputLayout>
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/sp_48"
+                android:paddingRight="@dimen/sp_48"
+                android:weightSum="1">
+
+                <CheckBox
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.9"
+                    android:padding="@dimen/sp_12"
+                    android:text="@string/agree_terms" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_details_linear"
+            android:layout_centerHorizontal="true"
+            android:layout_marginEnd="@dimen/sp_48"
+            android:layout_marginLeft="@dimen/sp_48"
+            android:layout_marginRight="@dimen/sp_48"
+            android:layout_marginStart="@dimen/sp_48"
+            android:layout_marginTop="@dimen/sp_24"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.AppCompatButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/color_accent_custom_drawable"
+                android:paddingLeft="@dimen/sp_24"
+                android:paddingRight="@dimen/sp_24"
+                android:text="@string/sign_in"
+                android:textAllCaps="false"
+                android:textColor="@color/color_white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/sp_12"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/sp_12"
+                android:paddingRight="@dimen/sp_12"
+                android:textAlignment="center"
+                android:weightSum="1">
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.4"
+                    android:text="@string/have_an_account" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="0dp"
+                    android:id="@+id/text_view_sign_in_here"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.6"
+                    android:padding="@dimen/sp_12"
+                    android:text="@string/sign_in_here"
+                    android:textColor="@color/colorAccent" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

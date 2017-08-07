@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 494
+                    }
+                }
+            }
+        ]
+    }
+]
