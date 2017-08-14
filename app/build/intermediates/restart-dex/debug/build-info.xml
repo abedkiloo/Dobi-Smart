@@ -6,36 +6,42 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1502105728524"
+    timestamp="1502725297140"
     token="-7269401801600970162"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1018" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="83" />
     <task
         name="verifier"
-        duration="0" />
+        duration="14" />
 
+    <artifact
+        location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
     <artifact
         location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1502104800087"
+        timestamp="1502723991805"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
@@ -50,13 +56,10 @@
             location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -70,27 +73,11 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1502105168834"
+        timestamp="1502725297140"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1502105514758"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1502105728524"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />

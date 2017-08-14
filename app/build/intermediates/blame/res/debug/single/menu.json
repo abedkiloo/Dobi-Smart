@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/menu/activity_landing_drawer.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/menu/activity_landing_drawer.xml"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/menu/landing.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/menu/landing.xml"
+    },
+    {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/menu/navigation.xml",
         "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/menu/navigation.xml"
     }

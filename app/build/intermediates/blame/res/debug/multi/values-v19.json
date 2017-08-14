@@ -9,7 +9,7 @@
                     "startOffset": 55,
                     "endLine": 9,
                     "endColumn": 12,
-                    "endOffset": 493
+                    "endOffset": 500
                 },
                 "from": {
                     "file": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/values-v19/styles.xml",
@@ -19,7 +19,7 @@
                         "startOffset": 56,
                         "endLine": 10,
                         "endColumn": 12,
-                        "endOffset": 494
+                        "endOffset": 501
                     }
                 }
             }

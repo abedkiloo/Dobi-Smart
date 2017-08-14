@@ -52,6 +52,10 @@
         "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },

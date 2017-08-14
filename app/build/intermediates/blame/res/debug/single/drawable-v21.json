@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-v21/ic_menu_manage.xml"
     },
     {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
@@ -16,8 +24,24 @@
         "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
     },
     {
         "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",

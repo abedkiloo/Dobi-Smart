@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">Dobi Smart</string>
+    <string name="app_name">Saka Fundi</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 
     <!--register and signin strings-->
     <string name="sign_in">Sign In</string>
-    <string name="dobi_smart_sign_in">Dobi Smart Sign In</string>
-    <string name="dobi_smart_sign_up">Dobi Smart Sign Up</string>
+    <string name="dobi_smart_sign_in">Saka Fundi Sign In</string>
+    <string name="dobi_smart_sign_up">Saka Fundi Sign Up</string>
     <string name="fb_sign_in">Sign in with Facebook</string>
     <string name="fb_sign_up">Sign Up with Facebook</string>
     <string name="or">or</string>
@@ -21,4 +21,12 @@
     <string name="have_an_account">Have an Account ?</string>
     <string name="sign_up_here"><u>Sign Up Here</u></string>
     <string name="sign_in_here"><u>Sign In Here</u></string>
+    <string name="title_activity_landing_page">LandingPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_anding">anding</string>
+    <string name="title_activity_landing">Landing</string>
 </resources>

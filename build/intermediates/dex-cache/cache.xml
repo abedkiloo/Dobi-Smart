@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="045ec2f623db7d287caeeacb882fb3283108bcc6">
+        sha1="54dc34bccbe36daec21da21dd3b77e8459c1552b">
         <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e/classes.dex" />
     </item>
     <item

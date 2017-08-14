@@ -20,20 +20,24 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.abednego.dobismart.MainActivity"
+            android:name="com.abedkiloo.abednego.dobismart.activities.MainActivity"
             android:label="@string/app_name" />
         <activity
-            android:name="com.example.abednego.dobismart.SignIn"
-            android:label="@string/dobi_smart_sign_in" >
+            android:name="com.abedkiloo.abednego.dobismart.activities.SignIn"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.abedkiloo.abednego.dobismart.activities.SignUp"
+            android:label="@string/dobi_smart_sign_up" />
+        <activity
+            android:name="com.abedkiloo.abednego.dobismart.activities.Landing"
+            android:label="@string/title_activity_landing"
+            android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="com.example.abednego.dobismart.SignUp"
-            android:label="@string/dobi_smart_sign_up" >
         </activity>
 
         <provider
