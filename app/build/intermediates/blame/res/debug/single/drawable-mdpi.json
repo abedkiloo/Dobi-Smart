@@ -1,18 +1,14 @@
 [
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-mdpi/email_drawable.png",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-mdpi/email_drawable.png"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-mdpi/password_drawable.png",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-mdpi/password_drawable.png"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-mdpi/password_drawable.png",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-mdpi/password_drawable.png"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-mdpi/person_drawable.png",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-mdpi/person_drawable.png"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-mdpi/person_drawable.png",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-mdpi/person_drawable.png"
-    },
-    {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/drawable-mdpi/fb_drawable.png",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/drawable-mdpi/fb_drawable.png"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-mdpi/phone_number_drawable.png",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-mdpi/phone_number_drawable.png"
     }
 ]

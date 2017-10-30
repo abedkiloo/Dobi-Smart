@@ -3,84 +3,138 @@
 
     <item
         is-multidex="true"
-        jar="/home/abednego/.android/build-cache/7a8b54b9c5623cbe56201bb57486786073cf613f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4da943816cb978710ed4d87d9328a9eb6cbb18ca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/.android/build-cache/f152a045ce7dbd5d5d091f57e9537bbb85ebc52c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a1a9be4ebc0e2254eed2883d73aa1e9c2c42f45/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="54dc34bccbe36daec21da21dd3b77e8459c1552b">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c279849789a10e037f394d4ef93c16f9080844/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/.android/build-cache/451710643b3d535118c41349fb0ca50e298dfb5e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb2cbadf87c33922ad3f40069fd8e96ff1b08155/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/.android/build-cache/58d737c8fcce8b956b3ce47995fa26355f9db1ff/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7aec658b43a6a824851c650f81d140e91bff015/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/.android/build-cache/cc2db7043fc7caeecb12293371d8183ce39dd989/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbc1646319cafa323e7203df3bebc6553f366ca5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/jars/classes.jar"
+        jar="/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fd583107c8bbca7ac370d0f159244ee6f5f20b6/classes.dex" />
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a46ccb403fcf9f714c9ceaa2cade107e586b320c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/abednego/.android/build-cache/8b00264e4a992367c778d6ceaa430d3f7d2c2b96/output/jars/classes.jar"
+        jar="/home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6915ca816f2514b05f89e31b963c90cd85aa1491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1a44ce6e0bbe0c397994555f9fe1d1e159621db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_965743ffff87e49307486a0d9baa9f9461a2a42f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d112574f57a73320898d874cca4e5f29cb57a1b3">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b9fd415afa9085c5b71bf4a471057dd57e1ab35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c80455bb06b7c035034334541155262fbd981186/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc768b5b4d5a47d64ce9be6c20e4213386379afb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b4fc4fcaf400922ae40d3746a9b7be65a9de74e/classes.dex" />
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6a8de71fe0023d58b8ee99c2d196ba517ccb48a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44b5e46bb7994cc17189f9f10f1b17587ae0640a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b00a7b9f6c6555297f2f97eb2ccb12ee392c823/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc14eb9e2ac3189ab83c2257c735b598ccc96472/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/2070f8f65720b79166f055f0f97f8c97137b2b70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2a19fca4c12fe28980bd10ea410af74e4962270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3945aca10569ff3d2097e2f5030e821e74609302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_321840251b18b000d9fe476a4a1b53ce49b9627f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abedkiloo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_812292ba0d387fb7c61f122e16620e5ed4c05f62/classes.dex" />
     </item>
 
 </items>

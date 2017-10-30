@@ -1,7 +1,7 @@
-#Mon Aug 14 18:41:40 EAT 2017
-base.0=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c279849789a10e037f394d4ef93c16f9080844/classes.dex
-base.1=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c279849789a10e037f394d4ef93c16f9080844
-file.0=/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8abedd9d641dca0507070f73abe027befa64626e/classes.dex
+#Mon Oct 30 21:41:45 EAT 2017
+base.0=/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b9fd415afa9085c5b71bf4a471057dd57e1ab35
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc14eb9e2ac3189ab83c2257c735b598ccc96472/classes.dex
+base.1=/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc14eb9e2ac3189ab83c2257c735b598ccc96472
+file.0=/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b9fd415afa9085c5b71bf4a471057dd57e1ab35/classes.dex

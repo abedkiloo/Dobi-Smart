@@ -1,117 +1,115 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:3:5-47
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:5:5-33:19
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abednego/.android/build-cache/4c693b4f64411aae4a8c600fdef294cca6e26658/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abednego/.android/build-cache/8b00264e4a992367c778d6ceaa430d3f7d2c2b96/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abednego/.android/build-cache/7a8b54b9c5623cbe56201bb57486786073cf613f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abednego/.android/build-cache/465a3c4e5b8b464f60e3367b4c37a6870e02650c/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abednego/.android/build-cache/cc2db7043fc7caeecb12293371d8183ce39dd989/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abednego/.android/build-cache/3c5ca84144a23a953830979857a8312b6e54182a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abednego/.android/build-cache/58d737c8fcce8b956b3ce47995fa26355f9db1ff/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abednego/.android/build-cache/f152a045ce7dbd5d5d091f57e9537bbb85ebc52c/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abednego/.android/build-cache/451710643b3d535118c41349fb0ca50e298dfb5e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abednego/.android/build-cache/38449faa1930cc17760b4814a0504d46763c18ff/output/AndroidManifest.xml:9:5-20
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.abedkiloo.abednego.dobismart.activities.MainActivity
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:12:9-14:48
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:12:9-14:48
 	android:label
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:13:13-52
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:13:13-52
 activity#com.abedkiloo.abednego.dobismart.activities.SignIn
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:15:9-19:20
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:15:9-22:20
 	android:label
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:17:13-45
 	android:name
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:16:13-46
-activity#com.abedkiloo.abednego.dobismart.activities.SignUp
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:20:9-22:58
-	android:label
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:22:13-55
-	android:name
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:21:13-46
-activity#com.abedkiloo.abednego.dobismart.activities.Landing
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:23:9-32:20
-	android:label
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:25:13-59
-	android:theme
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:26:13-56
-	android:name
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:16:13-46
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:18:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.abedkiloo.abednego.dobismart.activities.SignUp
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:23:9-27:20
+	android:label
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:24:13-46
+activity#com.abedkiloo.abednego.dobismart.activities.Landing
+ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:30:13-59
+	android:theme
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:29:13-47
 uses-sdk
-INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/abednego/.android/build-cache/53e26a00e0a22738f18514e2743e6df456cbb31e/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abednego/.android/build-cache/4c693b4f64411aae4a8c600fdef294cca6e26658/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abednego/.android/build-cache/8b00264e4a992367c778d6ceaa430d3f7d2c2b96/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abednego/.android/build-cache/7a8b54b9c5623cbe56201bb57486786073cf613f/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abednego/.android/build-cache/465a3c4e5b8b464f60e3367b4c37a6870e02650c/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abednego/.android/build-cache/cc2db7043fc7caeecb12293371d8183ce39dd989/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abednego/.android/build-cache/3c5ca84144a23a953830979857a8312b6e54182a/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abednego/.android/build-cache/58d737c8fcce8b956b3ce47995fa26355f9db1ff/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abednego/.android/build-cache/f152a045ce7dbd5d5d091f57e9537bbb85ebc52c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abednego/.android/build-cache/451710643b3d535118c41349fb0ca50e298dfb5e/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/abednego/.android/build-cache/38449faa1930cc17760b4814a0504d46763c18ff/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/2070f8f65720b79166f055f0f97f8c97137b2b70/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
-		INJECTED from /home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/abednego/.android/build-cache/53e26a00e0a22738f18514e2743e6df456cbb31e/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abednego/.android/build-cache/4c693b4f64411aae4a8c600fdef294cca6e26658/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abednego/.android/build-cache/8b00264e4a992367c778d6ceaa430d3f7d2c2b96/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abednego/.android/build-cache/7a8b54b9c5623cbe56201bb57486786073cf613f/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abednego/.android/build-cache/465a3c4e5b8b464f60e3367b4c37a6870e02650c/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abednego/.android/build-cache/cc2db7043fc7caeecb12293371d8183ce39dd989/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abednego/.android/build-cache/3c5ca84144a23a953830979857a8312b6e54182a/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abednego/.android/build-cache/58d737c8fcce8b956b3ce47995fa26355f9db1ff/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abednego/.android/build-cache/f152a045ce7dbd5d5d091f57e9537bbb85ebc52c/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abednego/.android/build-cache/451710643b3d535118c41349fb0ca50e298dfb5e/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/2070f8f65720b79166f055f0f97f8c97137b2b70/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:26:9-47

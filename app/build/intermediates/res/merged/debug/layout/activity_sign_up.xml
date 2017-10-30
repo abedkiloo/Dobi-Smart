@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -11,8 +10,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="@dimen/sp_24"
+        android:layout_marginBottom="@dimen/sp_12"
+        android:layout_marginTop="@dimen/sp_24"
         android:text="@string/app_name"
+        android:textColor="@color/colorAccent"
         android:textSize="@dimen/sp_48"
         android:textStyle="bold|italic" />
 
@@ -23,34 +24,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true">
 
-        <android.support.v7.widget.AppCompatTextView
-            android:id="@+id/fb_text_view_sign_in"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:background="@drawable/color_primary_dark_custom_drawable"
-            android:drawableLeft="@drawable/fb_drawable"
-            android:drawableStart="@drawable/fb_drawable"
-            android:padding="@dimen/sp_12"
-            android:text="@string/fb_sign_up"
-            android:textAlignment="center"
-            android:textColor="@color/color_white" />
-
-        <android.support.v7.widget.AppCompatTextView
-            android:id="@+id/text_view_or"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/fb_text_view_sign_in"
-            android:layout_centerHorizontal="true"
-            android:text="@string/or"
-            android:textSize="@dimen/sp_24" />
-
-
         <LinearLayout
             android:id="@+id/user_details_linear"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/text_view_or"
             android:layout_centerHorizontal="true"
             android:orientation="vertical">
 
@@ -63,11 +40,10 @@
                 <android.support.design.widget.TextInputEditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:drawableLeft="@drawable/email_drawable"
-                    android:drawableStart="@drawable/email_drawable"
-                    android:hint="@string/email" />
+                    android:drawableLeft="@drawable/person_drawable"
+                    android:drawableStart="@drawable/person_drawable"
+                    android:hint="@string/first_name" />
             </android.support.design.widget.TextInputLayout>
-
             <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -79,9 +55,8 @@
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/person_drawable"
                     android:drawableStart="@drawable/person_drawable"
-                    android:hint="@string/user_number" />
+                    android:hint="@string/other_names" />
             </android.support.design.widget.TextInputLayout>
-
             <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -95,6 +70,14 @@
                     android:drawableStart="@drawable/password_drawable"
                     android:hint="@string/password" />
             </android.support.design.widget.TextInputLayout>
+            <android.support.v7.widget.AppCompatSpinner
+                android:id="@+id/reg_specialization_spiiner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/sp_48"
+                android:paddingRight="@dimen/sp_48">
+
+            </android.support.v7.widget.AppCompatSpinner>
 
             <LinearLayout
 
@@ -140,7 +123,7 @@
                 android:background="@drawable/color_accent_custom_drawable"
                 android:paddingLeft="@dimen/sp_24"
                 android:paddingRight="@dimen/sp_24"
-                android:text="@string/sign_in"
+                android:text="@string/sign_up"
                 android:textAllCaps="false"
                 android:textColor="@color/color_white" />
 
@@ -161,8 +144,8 @@
                     android:text="@string/have_an_account" />
 
                 <android.support.v7.widget.AppCompatTextView
-                    android:layout_width="0dp"
                     android:id="@+id/text_view_sign_in_here"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="0.6"
                     android:padding="@dimen/sp_12"

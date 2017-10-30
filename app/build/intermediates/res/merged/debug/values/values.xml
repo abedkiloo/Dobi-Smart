@@ -1,97 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <attr format="reference" name="constraintSet"/>
+    <string-array name="specilization_list">
+        <item>--  Select Specialization --</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+        <item>Painter</item>
+        <item>Mason</item>
+    </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
-    <attr format="integer" name="layout_constraintBaseline_creator"/>
-    <attr format="reference|enum" name="layout_constraintBaseline_toBaselineOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="integer" name="layout_constraintBottom_creator"/>
-    <attr format="reference|enum" name="layout_constraintBottom_toBottomOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintBottom_toTopOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="string" name="layout_constraintDimensionRatio"/>
-    <attr format="reference|enum" name="layout_constraintEnd_toEndOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintEnd_toStartOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="dimension" name="layout_constraintGuide_begin"/>
-    <attr format="dimension" name="layout_constraintGuide_end"/>
-    <attr format="float" name="layout_constraintGuide_percent"/>
-    <attr name="layout_constraintHeight_default">
-        <enum name="spread" value="0"/>
-        <enum name="wrap" value="1"/>
-    </attr>
-    <attr format="dimension" name="layout_constraintHeight_max"/>
-    <attr format="dimension" name="layout_constraintHeight_min"/>
-    <attr format="float" name="layout_constraintHorizontal_bias"/>
-    <attr format="enum" name="layout_constraintHorizontal_chainStyle">
-        <enum name="spread" value="0"/>
-        <enum name="spread_inside" value="1"/>
-        <enum name="packed" value="2"/>
-    </attr>
-    <attr format="float" name="layout_constraintHorizontal_weight"/>
-    <attr format="integer" name="layout_constraintLeft_creator"/>
-    <attr format="reference|enum" name="layout_constraintLeft_toLeftOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintLeft_toRightOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="integer" name="layout_constraintRight_creator"/>
-    <attr format="reference|enum" name="layout_constraintRight_toLeftOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintRight_toRightOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintStart_toEndOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintStart_toStartOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="integer" name="layout_constraintTop_creator"/>
-    <attr format="reference|enum" name="layout_constraintTop_toBottomOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="reference|enum" name="layout_constraintTop_toTopOf">
-        <enum name="parent" value="0"/>
-    </attr>
-    <attr format="float" name="layout_constraintVertical_bias"/>
-    <attr format="enum" name="layout_constraintVertical_chainStyle">
-        <enum name="spread" value="0"/>
-        <enum name="spread_inside" value="1"/>
-        <enum name="packed" value="2"/>
-    </attr>
-    <attr format="float" name="layout_constraintVertical_weight"/>
-    <attr name="layout_constraintWidth_default">
-        <enum name="spread" value="0"/>
-        <enum name="wrap" value="1"/>
-    </attr>
-    <attr format="dimension" name="layout_constraintWidth_max"/>
-    <attr format="dimension" name="layout_constraintWidth_min"/>
-    <attr format="dimension" name="layout_editor_absoluteX"/>
-    <attr format="dimension" name="layout_editor_absoluteY"/>
-    <attr format="dimension" name="layout_goneMarginBottom"/>
-    <attr format="dimension" name="layout_goneMarginEnd"/>
-    <attr format="dimension" name="layout_goneMarginLeft"/>
-    <attr format="dimension" name="layout_goneMarginRight"/>
-    <attr format="dimension" name="layout_goneMarginStart"/>
-    <attr format="dimension" name="layout_goneMarginTop"/>
-    <attr name="layout_optimizationLevel">
-        <flag name="none" value="1"/>
-        <flag name="all" value="2"/>
-        <flag name="basic" value="4"/>
-        <flag name="chains" value="8"/>
-    </attr>
     <attr format="string" name="title"/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_allow_stacked_button_bar">true</bool>
@@ -117,8 +35,8 @@
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#cc88ca</color>
-    <color name="colorPrimary">#3843d9</color>
-    <color name="colorPrimaryDark">#0e189f</color>
+    <color name="colorPrimary">#da47d6</color>
+    <color name="colorPrimaryDark">#a060ca</color>
     <color name="color_white">#ffffff</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
@@ -302,8 +220,6 @@
             
             <enum name="screen" value="15"/>
         </attr></declare-styleable>
-    <declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable>
-    <declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable>
     <declare-styleable name="CoordinatorLayout"><attr format="reference" name="keylines"/><attr format="reference" name="statusBarBackground"/></declare-styleable>
     <declare-styleable name="CoordinatorLayout_Layout"><attr name="android:layout_gravity"/><attr format="string" name="layout_behavior"/><attr format="reference" name="layout_anchor"/><attr format="integer" name="layout_keyline"/><attr name="layout_anchorGravity">
             
@@ -379,7 +295,6 @@
         </attr><attr name="elevation"/><attr format="dimension" name="pressedTranslationZ"/><attr format="dimension" name="borderWidth"/><attr format="boolean" name="useCompatPadding"/></declare-styleable>
     <declare-styleable name="FloatingActionButton_Behavior_Layout"><attr format="boolean" name="behavior_autoHide"/></declare-styleable>
     <declare-styleable name="ForegroundLinearLayout"><attr name="android:foreground"/><attr name="android:foregroundGravity"/><attr format="boolean" name="foregroundInsidePadding"/></declare-styleable>
-    <declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers">
             <flag name="none" value="0"/>
             <flag name="beginning" value="1"/>
@@ -700,17 +615,14 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="dobi_smart_sign_in">Saka Fundi Sign In</string>
-    <string name="dobi_smart_sign_up">Saka Fundi Sign Up</string>
     <string name="email">Email</string>
-    <string name="fb_sign_in">Sign in with Facebook</string>
-    <string name="fb_sign_up">Sign Up with Facebook</string>
+    <string name="first_name">First Name</string>
     <string name="forgot_password">Forgot Password</string>
     <string name="have_an_account">Have an Account ?</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="not_a_member">Not a member ?</string>
-    <string name="or">or</string>
+    <string name="other_names">Other Names</string>
     <string name="password">Password</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
@@ -718,9 +630,13 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="phone_number">Phone Number</string>
+    <string name="saka_fundi_sign_in">Saka Fundi Sign In</string>
+    <string name="saka_fundi_sign_up">Saka Fundi Sign Up</string>
     <string name="search_menu_title">Search</string>
+    <string name="select_specialization">Select Specialization</string>
     <string name="sign_in">Sign In</string>
     <string name="sign_in_here"><u>Sign In Here</u></string>
+    <string name="sign_up">Sign Up</string>
     <string name="sign_up_here"><u>Sign Up Here</u></string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_anding">anding</string>
@@ -739,12 +655,12 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <!--<item name="android:windowTranslucentStatus">true</item>-->
-        <!--<item name="android:fitsSystemWindows">true</item>-->
+        
+        
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.NoActionBar">

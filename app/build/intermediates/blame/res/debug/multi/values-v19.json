@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "outputFile": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 500
                 },
                 "from": {
-                    "file": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/values-v19/styles.xml",
+                    "file": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

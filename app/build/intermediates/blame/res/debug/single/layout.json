@@ -1,246 +1,250 @@
 [
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_search_view.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_navigation_item_separator.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_menu_item_action_area.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/spinner_items.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/spinner_items.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_screen_simple.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_lines_media.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/app_bar_landing.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/app_bar_landing.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_navigation_menu.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_navigation_item_subheader.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/content_landing.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/content_landing.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_bottom_navigation_item.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_screen_content_include.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_action.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/nav_header_landing.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/nav_header_landing.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/activity_sign_up.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/activity_landing.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/activity_landing.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_custom_big.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_layout_tab_icon.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/activity_sign_in.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_media.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_media_custom.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_bottom_sheet_dialog.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_part_time.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/select_dialog_item_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_action_tombstone.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/abednego/AndroidStudioProjects/DobiSmart/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_icon_group.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/app_bar_landing.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/app_bar_landing.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_layout_tab_text.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_navigation_menu_item.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_navigation_item.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/nav_header_landing.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/nav_header_landing.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_navigation_item_header.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/activity_sign_up.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/content_landing.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/content_landing.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_text_input_password_icon.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/abednego/.android/build-cache/3601e201132eefbea6680fe8a9d80dd903f9bee3/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/activity_landing.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/activity_landing.xml"
     },
     {
-        "merged": "/home/abednego/AndroidStudioProjects/DobiSmart/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/abednego/.android/build-cache/b9dcffe92348aa520618a4270362481c3e7c0bbd/output/res/layout/design_layout_snackbar.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/layout/design_navigation_item_header.xml"
     }
 ]
