@@ -15,17 +15,38 @@ ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifes
 		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:5:5-35:19
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.1.0] /home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/abedkiloo/.android/build-cache/32815b6b13d13e2972c8f19d230980a2678e1621/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/abedkiloo/.android/build-cache/42423524c6473fe4c9d9bf40f6a40e5a4883d606/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abedkiloo/.android/build-cache/bed545af9aad02c32cf514d47176c9f3e7e8ffc5/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abedkiloo/.android/build-cache/e2e0233f38ff953a2cc8597261fc5c613982dc36/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:11.4.2] /home/abedkiloo/.android/build-cache/9359e751a412c4a8e8e70e1f5ac1c9a8cf64d463/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/abedkiloo/.android/build-cache/62181e7466b08c28144703bcfb538f74eb8a2f6f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /home/abedkiloo/.android/build-cache/eeae83264eb2c1c447a1e7ad1fff03f821202776/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /home/abedkiloo/.android/build-cache/9e23e770aa6418a75227e59837bc46eb52a329b0/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.4.2] /home/abedkiloo/.android/build-cache/68c6098714b4798be89063395bf78d0b05f42d62/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/abedkiloo/.android/build-cache/4a1958f763b7bee2a82331b01e1633c9e14e361d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] /home/abedkiloo/.android/build-cache/63c20ddd4421aba82ca4ea1b82f3ff2d7f018e02/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] /home/abedkiloo/.android/build-cache/e15a1c58476befbc21576d25f3e7860ed6a3a764/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/abedkiloo/.android/build-cache/6b89787b534eb8997fa570bcd716c4a0e8a289aa/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/abedkiloo/.android/build-cache/23fb58990c9c54490af15ddbd71cc6263977015e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/abedkiloo/.android/build-cache/41a403c72c14e2f27bbaa18278811f0e5e39b0b1/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/abedkiloo/.android/build-cache/ce1ba8f941484d8c760c23937c6ef174ace825d1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abedkiloo/.android/build-cache/1de6503295bb855b278c81557ea6d6120d1591bf/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abedkiloo/.android/build-cache/2ec357d5f5862facf6b1b9e7714cfdb657e0bf74/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abedkiloo/.android/build-cache/71eadd7c636b6b32300e2410ac9747fae9817408/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abedkiloo/.android/build-cache/f51b9dd98cda950b6d3e3c88b6116335eb5dd308/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abedkiloo/.android/build-cache/79c24febef673517bb03511954afe1d9366cac9a/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/abedkiloo/.android/build-cache/6f414c99d6a5432ec3cdd0237e72430113e756c5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/abedkiloo/.android/build-cache/dd9e0912a613089bb200660ccb3004297656060f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/abedkiloo/.android/build-cache/cd99779372279b35ddd9c6df529b6855da9a9dfb/output/AndroidManifest.xml:5:5-20
 	android:label
 		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -76,20 +97,42 @@ ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifes
 		ADDED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml:29:13-47
 uses-sdk
 INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/2070f8f65720b79166f055f0f97f8c97137b2b70/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:26.1.0] /home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/abedkiloo/.android/build-cache/32815b6b13d13e2972c8f19d230980a2678e1621/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/abedkiloo/.android/build-cache/42423524c6473fe4c9d9bf40f6a40e5a4883d606/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abedkiloo/.android/build-cache/bed545af9aad02c32cf514d47176c9f3e7e8ffc5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abedkiloo/.android/build-cache/e2e0233f38ff953a2cc8597261fc5c613982dc36/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.4.2] /home/abedkiloo/.android/build-cache/9359e751a412c4a8e8e70e1f5ac1c9a8cf64d463/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/abedkiloo/.android/build-cache/62181e7466b08c28144703bcfb538f74eb8a2f6f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /home/abedkiloo/.android/build-cache/eeae83264eb2c1c447a1e7ad1fff03f821202776/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /home/abedkiloo/.android/build-cache/9e23e770aa6418a75227e59837bc46eb52a329b0/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.4.2] /home/abedkiloo/.android/build-cache/68c6098714b4798be89063395bf78d0b05f42d62/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/abedkiloo/.android/build-cache/4a1958f763b7bee2a82331b01e1633c9e14e361d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] /home/abedkiloo/.android/build-cache/63c20ddd4421aba82ca4ea1b82f3ff2d7f018e02/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:11.4.2] /home/abedkiloo/.android/build-cache/b279cf97fa00761afbef8eda645dc16563485436/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.4.2] /home/abedkiloo/.android/build-cache/4942bda8c218fb2669005c2f20a37cf24e222e33/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] /home/abedkiloo/.android/build-cache/e15a1c58476befbc21576d25f3e7860ed6a3a764/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/abedkiloo/.android/build-cache/6b89787b534eb8997fa570bcd716c4a0e8a289aa/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/abedkiloo/.android/build-cache/23fb58990c9c54490af15ddbd71cc6263977015e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/abedkiloo/.android/build-cache/41a403c72c14e2f27bbaa18278811f0e5e39b0b1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/abedkiloo/.android/build-cache/ce1ba8f941484d8c760c23937c6ef174ace825d1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abedkiloo/.android/build-cache/1de6503295bb855b278c81557ea6d6120d1591bf/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abedkiloo/.android/build-cache/2ec357d5f5862facf6b1b9e7714cfdb657e0bf74/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abedkiloo/.android/build-cache/71eadd7c636b6b32300e2410ac9747fae9817408/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abedkiloo/.android/build-cache/f51b9dd98cda950b6d3e3c88b6116335eb5dd308/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abedkiloo/.android/build-cache/79c24febef673517bb03511954afe1d9366cac9a/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/abedkiloo/.android/build-cache/6f414c99d6a5432ec3cdd0237e72430113e756c5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/abedkiloo/.android/build-cache/dd9e0912a613089bb200660ccb3004297656060f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] /home/abedkiloo/.android/build-cache/cd99779372279b35ddd9c6df529b6855da9a9dfb/output/AndroidManifest.xml:4:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] /home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
@@ -97,19 +140,163 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.
 		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 		INJECTED from /home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/2070f8f65720b79166f055f0f97f8c97137b2b70/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/10bdb234b2035957e12eede0d356ccf5d5fb8656/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/8a87a5e18443dcb3f95960e0c4f9a0189aac094a/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/954f4d7e4afdaaacc831255c06f199dba4567a59/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/28dd4e82233ea138593dd70d6012c6959c67eb36/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d4475de930d22cc0591eccb1e9c9f58265e9aef3/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/78d7f5010c6af94dce2737db893e39c5fb1c615a/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/e7c6ba866ee3501a1556e67f83082e2ef4e6adbf/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/d93038c8c38e8547ad33c8b543346461425855b3/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/06902552c4ed28fa7f0274c4ede5dc716ef962dc/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.1.0] /home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/abedkiloo/.android/build-cache/32815b6b13d13e2972c8f19d230980a2678e1621/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/abedkiloo/.android/build-cache/42423524c6473fe4c9d9bf40f6a40e5a4883d606/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abedkiloo/.android/build-cache/bed545af9aad02c32cf514d47176c9f3e7e8ffc5/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abedkiloo/.android/build-cache/e2e0233f38ff953a2cc8597261fc5c613982dc36/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/abedkiloo/.android/build-cache/ce1ba8f941484d8c760c23937c6ef174ace825d1/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abedkiloo/.android/build-cache/1de6503295bb855b278c81557ea6d6120d1591bf/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abedkiloo/.android/build-cache/2ec357d5f5862facf6b1b9e7714cfdb657e0bf74/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abedkiloo/.android/build-cache/71eadd7c636b6b32300e2410ac9747fae9817408/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abedkiloo/.android/build-cache/f51b9dd98cda950b6d3e3c88b6116335eb5dd308/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.1.0] /home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.1.0] /home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /home/abedkiloo/.android/build-cache/99b3d2a9f30012502c6625775da33d4f1ecdb27b/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /home/abedkiloo/.android/build-cache/e5736830ba1e65dd059e07dc80056a885a81296f/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/abedkiloo/.android/build-cache/1702b00c96da995814b1f214338f2caacbeefb74/output/AndroidManifest.xml:45:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/abedkiloo/.android/build-cache/633948b8ce70a3c4805d238e1d89105a5bd87844/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/abedkiloo/.android/build-cache/41a403c72c14e2f27bbaa18278811f0e5e39b0b1/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/abedkiloo/.android/build-cache/41a403c72c14e2f27bbaa18278811f0e5e39b0b1/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/abedkiloo/.android/build-cache/41a403c72c14e2f27bbaa18278811f0e5e39b0b1/output/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/abedkiloo/.android/build-cache/79c24febef673517bb03511954afe1d9366cac9a/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/abedkiloo/.android/build-cache/79c24febef673517bb03511954afe1d9366cac9a/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/abedkiloo/.android/build-cache/79c24febef673517bb03511954afe1d9366cac9a/output/AndroidManifest.xml:26:13-58

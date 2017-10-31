@@ -4,6 +4,10 @@
         "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-hdpi/phone_number_drawable.png"
     },
     {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-hdpi/digit_drawable.png",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-hdpi/digit_drawable.png"
+    },
+    {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-hdpi/person_drawable.png",
         "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-hdpi/person_drawable.png"
     },

@@ -1,4 +1,4 @@
-#Mon Oct 30 21:41:45 EAT 2017
+#Tue Oct 31 11:30:34 EAT 2017
 base.0=/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b9fd415afa9085c5b71bf4a471057dd57e1ab35
 renamed.1=classes.dex
 renamed.0=classes2.dex

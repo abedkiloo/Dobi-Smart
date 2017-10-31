@@ -10,5 +10,9 @@
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/phone_number_drawable.png",
         "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-xxhdpi/phone_number_drawable.png"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-xxhdpi/digit_drawable.png",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-xxhdpi/digit_drawable.png"
     }
 ]

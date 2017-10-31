@@ -12,6 +12,10 @@
 
     <string name="phone_number">Phone Number</string>
     <string name="first_name">First Name</string>
+    <string name="verification_code">Verification COde</string>
+    <string name="resend_verification_code">Resend Verification COde</string>
+    <string name="get_verification_code">Get Verification COde</string>
+    <string name="confirm_verification_code">Confirm Verification COde</string>
     <string name="other_names">Other Names</string>
     <string name="user_number">User Name</string>
     <string name="email">Email</string>

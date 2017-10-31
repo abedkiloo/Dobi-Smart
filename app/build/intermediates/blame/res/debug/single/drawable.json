@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/drawable/design_bottom_navigation_item_background.xml"
+        "source": "/home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/ic_dashboard_black_24dp.xml",
@@ -9,31 +9,35 @@
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ratingbar_small_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_btn_borderless_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_tab_indicator_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/drawable/design_fab_background.xml"
+        "source": "/home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
@@ -41,7 +45,7 @@
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.xml",
@@ -49,75 +53,107 @@
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_list_selector_holo_light.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/drawable/navigation_empty_icon.xml"
+        "source": "/home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/res/drawable/navigation_empty_icon.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/notification_bg.xml"
+        "source": "/home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_btn_colored_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/drawable/design_snackbar_background.xml"
+        "source": "/home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_textfield_search_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_vector_test.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/tooltip_frame_dark.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_btn_radio_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_item_background_holo_dark.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_seekbar_track_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_switch_thumb_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_dialog_material_background.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ratingbar_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/color_primary_dark_custom_drawable.xml",
@@ -125,63 +161,87 @@
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/notification_tile_bg.xml"
+        "source": "/home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/notification_bg_low.xml"
+        "source": "/home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_text_cursor_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_clear_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/home/abedkiloo/.android/build-cache/368f4fd6aef4b6efd0a43a4a7d0c8834643e5150/output/res/drawable/design_password_eye.xml"
+        "source": "/home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/res/drawable/design_password_eye.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_ab_back_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_cab_background_top_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/notification_icon_background.xml"
+        "source": "/home/abedkiloo/.android/build-cache/224241c141928207a699519e1778d684f48ec859/output/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_item_background_holo_light.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_btn_check_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_ic_search_api_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/tooltip_frame_light.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/ic_home_black_24dp.xml",
@@ -189,6 +249,10 @@
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/abedkiloo/.android/build-cache/56ef2add168e1b799fcdfb74aa46e74196e610bb/output/res/drawable/abc_edit_text_material.xml"
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/abedkiloo/.android/build-cache/205f9ea1c8a630a3fc1904df75321ce7cb04171e/output/res/drawable/common_google_signin_btn_text_light.xml"
     }
 ]
