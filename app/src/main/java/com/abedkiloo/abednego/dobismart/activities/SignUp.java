@@ -8,10 +8,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.AppCompatButton;
 import android.support.v7.widget.AppCompatTextView;
 import android.support.v7.widget.LinearLayoutCompat;
-import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.Toast;
@@ -27,6 +27,8 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.PhoneAuthCredential;
 import com.google.firebase.auth.PhoneAuthProvider;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.concurrent.TimeUnit;
 
@@ -39,8 +41,14 @@ public class SignUp extends AppCompatActivity {
     private static final int STATE_SIGNIN_SUCCESS = 6;
     private static final String TAG = "PhoneAuthActivity";
     private static final String KEY_VERIFY_IN_PROGRESS = "key_verify_in_progress";
-    private  TextInputEditText edit_text_phone_number;
-    private  TextInputEditText reg_edit_text_confirm_code;
+    String artisan_specialization;
+    private DatabaseReference databaseReference;
+    private TextInputEditText reg_edit_text_phone_number;
+    private TextInputEditText reg_edit_text_confirm_code;
+    private TextInputEditText reg_edit_first_name;
+    private TextInputEditText reg_edit_other_name;
+    private TextInputEditText reg_edit_locality_name;
+    private TextInputEditText reg_edit_password;
     private AppCompatTextView sign_in_here;
     private AppCompatButton btn_sign_in;
     private Spinner specialization_spinner;
@@ -52,19 +60,20 @@ public class SignUp extends AppCompatActivity {
     private LinearLayoutCompat linear_layout_phone_number_input;
     private LinearLayoutCompat linear_layout_user_details;
     private LinearLayoutCompat linear_layout_verification_code;
+    private Artisan artisan;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up);
         getSupportActionBar().hide();
+//        databaseReference=Firebase
         mAuth = FirebaseAuth.getInstance();
         /**
          * referencing all xml elements
          */
         xml_elements();
-
-        //clicked sign up here
+       //clicked sign up here
         sign_in_here.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -77,7 +86,19 @@ public class SignUp extends AppCompatActivity {
                 R.array.specilization_list, R.layout.spinner_items);
         specialization_adapter.setDropDownViewResource(R.layout.spinner_items);
         specialization_spinner.setAdapter(specialization_adapter);
+        specialization_spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                artisan_specialization = adapterView.getItemAtPosition(i).toString();
+            }
 
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
+
+        databaseReference = FirebaseDatabase.getInstance().getReference(getString(R.string.saka_fundi_artisans_tbl));
 
         mCallbacks = new PhoneAuthProvider.OnVerificationStateChangedCallbacks() {
 
@@ -104,7 +125,7 @@ public class SignUp extends AppCompatActivity {
                 if (e instanceof FirebaseAuthInvalidCredentialsException) {
                     // Invalid request
                     // [START_EXCLUDE]
-                    edit_text_phone_number.setError("Invalid phone number.");
+                    reg_edit_text_phone_number.setError("Invalid phone number.");
                     // [END_EXCLUDE]
                 } else if (e instanceof FirebaseTooManyRequestsException) {
                     // The SMS quota for the project has been exceeded
@@ -138,8 +159,6 @@ public class SignUp extends AppCompatActivity {
                 // [END_EXCLUDE]
             }
         };
-
-
         btn_sign_in.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -149,10 +168,10 @@ public class SignUp extends AppCompatActivity {
                     if (!validatePhoneNumber()) {
                         return;
                     }
-                    startPhoneNumberVerification(edit_text_phone_number.getText().toString());
-                }else if(str_btn_value.equals(getString(R.string.resend_verification_code))){
-                    resendVerificationCode(edit_text_phone_number.getText().toString(),mResendToken);
-                }else if(str_btn_value.equals(getString(R.string.confirm_verification_code))){
+                    startPhoneNumberVerification(reg_edit_text_phone_number.getText().toString());
+                } else if (str_btn_value.equals(getString(R.string.resend_verification_code))) {
+                    resendVerificationCode(reg_edit_text_phone_number.getText().toString(), mResendToken);
+                } else if (str_btn_value.equals(getString(R.string.confirm_verification_code))) {
                     String code = reg_edit_text_confirm_code.getText().toString();
                     if (TextUtils.isEmpty(code)) {
                         reg_edit_text_confirm_code.setError("Cannot be empty.");
@@ -160,6 +179,20 @@ public class SignUp extends AppCompatActivity {
                     }
 
                     verifyPhoneNumberWithCode(mVerificationId, code);
+                } else if (str_btn_value.equals(getString(R.string.sign_up))) {
+                    // !TODO empty field checking
+                    String f_name = reg_edit_first_name.getText().toString();
+                    String ot_name = reg_edit_other_name.getText().toString();
+                    String password = reg_edit_password.getText().toString();
+                    String ph_no = reg_edit_text_phone_number.getText().toString();
+                    String local = reg_edit_locality_name.getText().toString();
+
+                    String id = databaseReference.push().getKey();
+                    artisan = new Artisan("1", f_name, ot_name, ph_no, artisan_specialization, local, password);
+
+                    databaseReference.child(id).setValue(artisan);
+                    startActivity(new Intent(getApplicationContext(), SignIn.class));
+
                 }
             }
         });
@@ -173,34 +206,43 @@ public class SignUp extends AppCompatActivity {
         // [END verify_with_code]
         signInWithPhoneAuthCredential(credential);
     }
+
     private void xml_elements() {
         reg_edit_text_confirm_code = findViewById(R.id.reg_edit_text_confirm_code);
-        edit_text_phone_number = findViewById(R.id.reg_phone_number);
+        reg_edit_text_phone_number = findViewById(R.id.reg_phone_number);
         sign_in_here = findViewById(R.id.text_view_sign_in_here);
         specialization_spinner = findViewById(R.id.reg_specialization_spiiner);
         btn_sign_in = findViewById(R.id.btn_user_sign_up);
         linear_layout_phone_number_input = findViewById(R.id.phone_number_input);
         linear_layout_user_details = findViewById(R.id.reg_user_details_linear);
         linear_layout_verification_code = findViewById(R.id.verification_code_layout);
+        reg_edit_first_name = findViewById(R.id.reg_artisan_first_name_edit_text);
+        reg_edit_other_name = findViewById(R.id.reg_artisan_other_name_edit_text);
+        reg_edit_locality_name = findViewById(R.id.reg_artisan_locality_edit_text);
+        reg_edit_password = findViewById(R.id.reg_artisan_password_edit_text);
     }
-
     // [START on_start_check_user]
     @Override
     public void onStart() {
         super.onStart();
         // Check if user is signed in (non-null) and update UI accordingly.
         FirebaseUser currentUser = mAuth.getCurrentUser();
+        if (currentUser!=null) {
+            Intent intent = new Intent(getApplicationContext(), SignIn.class);
+            intent.putExtra("phone_number", currentUser.getPhoneNumber());
+            Toast.makeText(this, currentUser.getPhoneNumber(), Toast.LENGTH_SHORT).show();
+            startActivity(intent);
+        }
         updateUI(currentUser);
+
 
         // [START_EXCLUDE]
         if (mVerificationInProgress && validatePhoneNumber()) {
-            startPhoneNumberVerification(edit_text_phone_number.getText().toString());
+            startPhoneNumberVerification(reg_edit_text_phone_number.getText().toString());
         }
         // [END_EXCLUDE]
     }
     // [END on_start_check_user]
-
-
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
@@ -212,7 +254,6 @@ public class SignUp extends AppCompatActivity {
         super.onRestoreInstanceState(savedInstanceState);
         mVerificationInProgress = savedInstanceState.getBoolean(KEY_VERIFY_IN_PROGRESS);
     }
-
 
     private void startPhoneNumberVerification(String phoneNumber) {
         // [START start_phone_auth]
@@ -264,10 +305,12 @@ public class SignUp extends AppCompatActivity {
     private void updateUI(int uiState, FirebaseUser user, PhoneAuthCredential cred) {
         switch (uiState) {
             case STATE_INITIALIZED:
+
                 // Initialized state, show only the phone number field and start button
                 linear_layout_verification_code.setVisibility(View.GONE);
                 linear_layout_phone_number_input.setVisibility(View.VISIBLE);
                 linear_layout_user_details.setVisibility(View.GONE);
+                btn_sign_in.setText(getString(R.string.confirm_verification_code));
                 break;
             case STATE_CODE_SENT:
                 // Code sent state, show the verification field, the
@@ -324,17 +367,15 @@ public class SignUp extends AppCompatActivity {
         }
     }
 
-
     private boolean validatePhoneNumber() {
-        String phoneNumber = edit_text_phone_number.getText().toString();
+        String phoneNumber = reg_edit_text_phone_number.getText().toString();
         if (TextUtils.isEmpty(phoneNumber)) {
-                edit_text_phone_number.setError("Invalid phone number.");
+            reg_edit_text_phone_number.setError("Invalid phone number.");
             return false;
         }
 
         return true;
     }
-
 
     // [START sign_in_with_phone]
     private void signInWithPhoneAuthCredential(PhoneAuthCredential credential) {

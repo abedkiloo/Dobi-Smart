@@ -12,6 +12,10 @@
         "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-xhdpi/password_drawable.png"
     },
     {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-xhdpi/location_drawable.png",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-xhdpi/location_drawable.png"
+    },
+    {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/drawable-xhdpi/person_drawable.png",
         "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/drawable-xhdpi/person_drawable.png"
     }

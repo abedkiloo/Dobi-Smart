@@ -40,6 +40,7 @@
                 android:paddingRight="@dimen/sp_48">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_text_login_phone_number"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/phone_number_drawable"
@@ -54,11 +55,13 @@
                 android:paddingRight="@dimen/sp_48">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/edit_text_login_password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/password_drawable"
                     android:drawableStart="@drawable/password_drawable"
-                    android:hint="@string/password" />
+                    android:hint="@string/password"
+                    android:inputType="textPassword"/>
             </android.support.design.widget.TextInputLayout>
 
             <LinearLayout

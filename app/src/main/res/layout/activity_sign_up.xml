@@ -66,6 +66,7 @@
                 android:paddingRight="@dimen/sp_48">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/reg_artisan_first_name_edit_text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/person_drawable"
@@ -80,6 +81,7 @@
                 android:paddingRight="@dimen/sp_48">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/reg_artisan_other_name_edit_text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/person_drawable"
@@ -94,6 +96,7 @@
                 android:paddingRight="@dimen/sp_48">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/reg_artisan_password_edit_text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:drawableLeft="@drawable/password_drawable"
@@ -109,14 +112,27 @@
                 android:paddingRight="@dimen/sp_48">
 
             </android.support.v7.widget.AppCompatSpinner>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/sp_48"
+                android:paddingRight="@dimen/sp_48">
 
+                <android.support.design.widget.TextInputEditText
+                    android:id="@+id/reg_artisan_locality_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/location_drawable"
+                    android:drawableStart="@drawable/location_drawable"
+                    android:hint="@string/operation_locality" />
+            </android.support.design.widget.TextInputLayout>
             <android.support.v7.widget.LinearLayoutCompat
-
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:paddingLeft="@dimen/sp_48"
                 android:paddingRight="@dimen/sp_48"
+                android:visibility="visible"
                 android:weightSum="1">
 
                 <CheckBox
@@ -160,6 +176,7 @@
         </android.support.v7.widget.LinearLayoutCompat>
 
         <android.support.v7.widget.LinearLayoutCompat
+            android:visibility="visible"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/phone_number_input"

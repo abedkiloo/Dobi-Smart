@@ -763,6 +763,7 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="not_a_member">Not a member ?</string>
+    <string name="operation_locality">Operation Locality</string>
     <string name="other_names">Other Names</string>
     <string name="password">Password</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -772,6 +773,7 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="phone_number">Phone Number</string>
     <string name="resend_verification_code">Resend Verification COde</string>
+    <string name="saka_fundi_artisans_tbl">saka_fundi_artisans</string>
     <string name="saka_fundi_sign_in">Saka Fundi Sign In</string>
     <string name="saka_fundi_sign_up">Saka Fundi Sign Up</string>
     <string name="search_menu_title">Search</string>

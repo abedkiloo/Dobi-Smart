@@ -20,6 +20,7 @@
     <string name="user_number">User Name</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="operation_locality">Operation Locality</string>
     <string name="agree_terms">Agree to the <u><b>terms and conditions</b></u></string>
     <string name="forgot_password">Forgot Password</string>
     <string name="not_a_member">Not a member ?</string>
@@ -30,6 +31,9 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="saka_fundi_artisans_tbl">saka_fundi_artisans</string>
 
     <string name="select_specialization">Select Specialization</string>
     <string name="action_settings">Settings</string>
