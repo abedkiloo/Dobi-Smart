@@ -73,7 +73,7 @@ public class SignUp extends AppCompatActivity {
          * referencing all xml elements
          */
         xml_elements();
-       //clicked sign up here
+        //clicked sign up here
         sign_in_here.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -167,8 +167,9 @@ public class SignUp extends AppCompatActivity {
                 if (str_btn_value.equals(getString(R.string.get_verification_code))) {
                     if (!validatePhoneNumber()) {
                         return;
+                    } else {
+                        startPhoneNumberVerification(reg_edit_text_phone_number.getText().toString());
                     }
-                    startPhoneNumberVerification(reg_edit_text_phone_number.getText().toString());
                 } else if (str_btn_value.equals(getString(R.string.resend_verification_code))) {
                     resendVerificationCode(reg_edit_text_phone_number.getText().toString(), mResendToken);
                 } else if (str_btn_value.equals(getString(R.string.confirm_verification_code))) {
@@ -221,27 +222,29 @@ public class SignUp extends AppCompatActivity {
         reg_edit_locality_name = findViewById(R.id.reg_artisan_locality_edit_text);
         reg_edit_password = findViewById(R.id.reg_artisan_password_edit_text);
     }
+
     // [START on_start_check_user]
-    @Override
-    public void onStart() {
-        super.onStart();
-        // Check if user is signed in (non-null) and update UI accordingly.
-        FirebaseUser currentUser = mAuth.getCurrentUser();
-        if (currentUser!=null) {
-            Intent intent = new Intent(getApplicationContext(), SignIn.class);
-            intent.putExtra("phone_number", currentUser.getPhoneNumber());
-            Toast.makeText(this, currentUser.getPhoneNumber(), Toast.LENGTH_SHORT).show();
-            startActivity(intent);
-        }
-        updateUI(currentUser);
+//    @Override
+//    public void onStart() {
+//        super.onStart();
+//        // Check if user is signed in (non-null) and update UI accordingly.
+//        FirebaseUser currentUser = mAuth.getCurrentUser();
+//        if (currentUser != null) {
+//            Intent intent = new Intent(getApplicationContext(), SignIn.class);
+//            intent.putExtra("phone_number", currentUser.getPhoneNumber());
+//            Toast.makeText(this, currentUser.getPhoneNumber(), Toast.LENGTH_SHORT).show();
+//            startActivity(intent);
+//        }
+//        updateUI(currentUser);
+//
+//
+//        // [START_EXCLUDE]
+//        if (mVerificationInProgress && validatePhoneNumber()) {
+//            startPhoneNumberVerification(reg_edit_text_phone_number.getText().toString());
+//        }
+//        // [END_EXCLUDE]
+//    }
 
-
-        // [START_EXCLUDE]
-        if (mVerificationInProgress && validatePhoneNumber()) {
-            startPhoneNumberVerification(reg_edit_text_phone_number.getText().toString());
-        }
-        // [END_EXCLUDE]
-    }
     // [END on_start_check_user]
     @Override
     protected void onSaveInstanceState(Bundle outState) {
