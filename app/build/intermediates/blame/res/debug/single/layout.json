@@ -128,6 +128,10 @@
         "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/recy_answer_view.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/recy_answer_view.xml"
+    },
+    {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/layout/abc_list_menu_item_radio.xml"
     },
@@ -254,6 +258,10 @@
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/content_landing.xml",
         "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/content_landing.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/jobfrag.xml",
+        "source": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/src/main/res/layout/jobfrag.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",

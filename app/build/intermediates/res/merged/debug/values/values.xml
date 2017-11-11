@@ -99,6 +99,7 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
+    <color name="white">#fff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -559,6 +560,7 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
     <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
     <dimen name="compat_button_inset_vertical_material">6dp</dimen>
     <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
@@ -635,9 +637,15 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="sp_1">1sp</dimen>
     <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
     <dimen name="sp_24">24sp</dimen>
+    <dimen name="sp_3">3sp</dimen>
+    <dimen name="sp_34">34sp</dimen>
     <dimen name="sp_48">48sp</dimen>
+    <dimen name="sp_7">7sp</dimen>
+    <dimen name="text_margin">16dp</dimen>
     <dimen name="tooltip_corner_radius">2dp</dimen>
     <dimen name="tooltip_horizontal_padding">16dp</dimen>
     <dimen name="tooltip_margin">8dp</dimen>
@@ -748,17 +756,17 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="confirm_verification_code">Confirm Verification COde</string>
-    <string name="default_web_client_id" translatable="false">648317406654-088f42j0ocnke743lo5ub5lih0k40el3.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">962980052895-9s41uhgcu1p14g79uc3h40qplvpitu1r.apps.googleusercontent.com</string>
     <string name="email">Email</string>
-    <string name="firebase_database_url" translatable="false">https://saka-fundi.firebaseio.com</string>
+    <string name="firebase_database_url" translatable="false">https://sakafundi-323a1.firebaseio.com</string>
     <string name="first_name">First Name</string>
     <string name="forgot_password">Forgot Password</string>
-    <string name="gcm_defaultSenderId" translatable="false">648317406654</string>
+    <string name="gcm_defaultSenderId" translatable="false">962980052895</string>
     <string name="get_verification_code">Get Verification COde</string>
-    <string name="google_api_key" translatable="false">AIzaSyAYCNHFBQsdWGSXMhrSuyKKZrpAejZ42vg</string>
-    <string name="google_app_id" translatable="false">1:648317406654:android:0dbf9fef4e1c8070</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYCNHFBQsdWGSXMhrSuyKKZrpAejZ42vg</string>
-    <string name="google_storage_bucket" translatable="false">saka-fundi.appspot.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxp75ajQ1gUp_YaxmvZ_LcCFtzVTHdK38</string>
+    <string name="google_app_id" translatable="false">1:962980052895:android:0dbf9fef4e1c8070</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxp75ajQ1gUp_YaxmvZ_LcCFtzVTHdK38</string>
+    <string name="google_storage_bucket" translatable="false">sakafundi-323a1.appspot.com</string>
     <string name="have_an_account">Have an Account ?</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>

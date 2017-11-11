@@ -24,20 +24,20 @@
         "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
         "source": "/home/abedkiloo/.android/build-cache/4a4ffeff9de3662f3ecb1b3d5b58a0291744d2d8/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/color/abc_tint_edittext.xml"
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
         "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/abedkiloo/.android/build-cache/5b01ca323be0e98b463c7d4f2d1cbbeac200f479/output/res/color/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/abedkiloo/StudioProjects/Saka-Fundi/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",

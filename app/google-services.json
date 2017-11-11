@@ -1,35 +1,27 @@
-{
+  {
   "project_info": {
-    "project_number": "648317406654",
-    "firebase_url": "https://saka-fundi.firebaseio.com",
-    "project_id": "saka-fundi",
-    "storage_bucket": "saka-fundi.appspot.com"
+    "project_number": "962980052895",
+    "firebase_url": "https://sakafundi-323a1.firebaseio.com",
+    "project_id": "sakafundi-323a1",
+    "storage_bucket": "sakafundi-323a1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:648317406654:android:0dbf9fef4e1c8070",
+        "mobilesdk_app_id": "1:962980052895:android:0dbf9fef4e1c8070",
         "android_client_info": {
           "package_name": "com.example.abednego.dobismart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "648317406654-df1am2urrl5490gjhnube7pdtdhghvvu.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.abednego.dobismart",
-            "certificate_hash": "ce95efbba091be9172905bfd181ac37c6420aea8"
-          }
-        },
-        {
-          "client_id": "648317406654-088f42j0ocnke743lo5ub5lih0k40el3.apps.googleusercontent.com",
+          "client_id": "962980052895-9s41uhgcu1p14g79uc3h40qplvpitu1r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAYCNHFBQsdWGSXMhrSuyKKZrpAejZ42vg"
+          "current_key": "AIzaSyBxp75ajQ1gUp_YaxmvZ_LcCFtzVTHdK38"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "648317406654-088f42j0ocnke743lo5ub5lih0k40el3.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
